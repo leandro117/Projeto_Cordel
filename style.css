@@ -14,11 +14,12 @@
     --font2:"Sriracha", cursive;
 }
 
-p {
+pre {
     font-style: italic;
     font-weight: 300;
     font-family: var(--font2);
     font-size: 2rem;
+    white-space: pre-line;
 }
   
 
